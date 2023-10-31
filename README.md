@@ -1,4 +1,10 @@
-![Age](https://img.shields.io/badge/Nextjs-c70000)
+![Nextjs](https://img.shields.io/badge/Nextjs-c70000)
+![Redux](https://img.shields.io/badge/Redux-c70000)
+![Tailwind](https://img.shields.io/badge/Tailwind-c70000)
+![Millionjs](https://img.shields.io/badge/Millionjs-c70000)
+
+
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
