@@ -6,3 +6,5 @@ const nextConfig = {
 };
 
 module.exports = million.next(nextConfig);
+
+
