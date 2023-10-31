@@ -1,8 +1,8 @@
-import million from "million/compiler";
+const million = require("million/compiler");
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
 };
 
-export default million.next(nextConfig);
+module.exports = million.next(nextConfig);
