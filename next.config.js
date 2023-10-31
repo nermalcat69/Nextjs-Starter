@@ -7,4 +7,10 @@ const nextConfig = {
 
 module.exports = million.next(nextConfig);
 
+const withPWA = require('next-pwa')({
+  dest: 'public',
+});
 
+module.exports = withPWA({
+
+});
